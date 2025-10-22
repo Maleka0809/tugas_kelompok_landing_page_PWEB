@@ -228,10 +228,10 @@ Penjelasan: Kode ini penting untuk penyesuaian tampilan di perangkat seluler.
 ![alt](https://github.com/Maleka0809/tugas_kelompok_landing_page_PWEB/blob/43cc3beec04bcc5b053eed84306b16088d0b0f06/dokumentasi/tentang_klmpk.png)
 
 ### Dokumentasi page produk atau menu
-![alt](https://github.com/Maleka0809/tugas_kelompok_landing_page_PWEB/blob/43cc3beec04bcc5b053eed84306b16088d0b0f06/dokumentasi/produk_klmpk.jpg)
+![alt](https://github.com/Maleka0809/tugas_kelompok_landing_page_PWEB/blob/abd7f9ae24ea9362d5fdfb21e0eb5e04044abdd3/dokumentasi/produk_klmpk.jpg)
 
 ### Dokumentasi page layanan
-![alt](https://github.com/Maleka0809/tugas_kelompok_landing_page_PWEB/blob/43cc3beec04bcc5b053eed84306b16088d0b0f06/dokumentasi/layanan_klmpk.jpg)
+![alt](https://github.com/Maleka0809/tugas_kelompok_landing_page_PWEB/blob/1c10e742d28960b38fa3aeebe72eb1d4010047b1/dokumentasi/layanan_klmpk.jpg)
 
 
 ### Dokumentasi page reservasi
